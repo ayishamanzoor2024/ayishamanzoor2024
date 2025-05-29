@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayishamanzoor
-- 👀 I’m interested in Software Enginnering, Machine Learning, Deep Learning & Data Science
-- 🌱 I’m currently learning Masters in Software Engineering program
-- 💞️ I’m looking to collaborate on research that involves integration of AI, ML, DL and Computer Vision applications
+- 👋 Hi, I’m @ayishamanzoor, a Software Engineer.
+- 🌱 I’m a Master degree holder in Software Engineering and a Bachelor degree holder in Computer Engineering
+- 👀 My expertise include Software Enginnering, AI/ML Engineering, Software Development, Deep Learning & Data Science
+- 💞️ I’m looking to collaborate on innovative projects that involves integration of AI, ML, DL and Computer Vision applications
 - 📫 How to reach me: https://www.linkedin.com/in/ayisha-manzoor-24b183157/ 
 
 <!---
