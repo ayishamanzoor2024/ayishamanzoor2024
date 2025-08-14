@@ -11,7 +11,7 @@
 📚 I've contributed to diverse projects across:
 - 🎓 **Education** (ML-based learning mode recommendation)
 - 🏥 **Healthcare** (ICU survival prediction using deep learning)
-- ✈️ **Aviation** (in-flight meal forecasting with Prophet & Django)
+- ✈️ **Aviation** (Intelligent automation concepts inspired by Jetson-like copilots and mission support systems)
 
 🌸 I love collaborating on meaningful research and innovative applications that integrate **AI, ML, DL**, and software engineering for social impact.
 
