@@ -1,27 +1,37 @@
-# 👋 Hi, I'm Ayisha Manzoor — Software Engineer | AI/ML Researcher | Data Enthusiast
+# Hi, I'm Ayisha Manzoor
 
-🌱 I'm a Master’s degree holder in **Software Engineering** and a Bachelor's graduate in **Computer Engineering**, passionate about solving real-world problems through intelligent systems.
+**Software Engineer | AI/ML Researcher | Data Scientist**
 
-💡 My expertise includes:
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 🔍 **Deep Learning**, **Data Science**, and **Computer Vision**
-- 🛠️ **Software Engineering**, APIs, and full-stack development
-- 📊 Predictive modeling, time series forecasting, and data-driven decision-making
+I'm a Software Engineer and researcher focused on **Artificial Intelligence, Machine Learning, and Data Science**, with an interest in developing data-driven solutions for real-world problems.
 
-📚 I've contributed to diverse projects across:
-- 🎓 **Education** (ML-based learning mode recommendation)
-- 🏥 **Healthcare** (ICU survival prediction using deep learning)
-- ✈️ **Aviation** (Intelligent automation concepts inspired by Jetson-like copilots and mission support systems)
+### 🔬 Research Interests
 
-🌸 I love collaborating on meaningful research and innovative applications that integrate **AI, ML, DL**, and software engineering for social impact.
+- Artificial Intelligence & Machine Learning
+- Data Science & Data Analytics
+- Predictive Modeling
+- Deep Learning
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ayisha-manzoor-24b183157/)
+### 📚 Research & Selected Work
 
----
+- 🔬 **Lysosomal Storage Disorder Screening**  
+  Expert-rule-based screening and evaluation using clinical data.
 
-> _This is a special ✨ GitHub repository that displays this README on my profile!_
+- 🎓 **Data-Driven Education**  
+  Machine learning approaches for recommending learning modes and educational tools based on course characteristics and learning outcomes.
 
-<!---
-ayishamanzoor2024/ayishamanzoor2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏥 **Healthcare Prediction**  
+  Deep learning for ICU patient survival prediction.
+
+- ✈️ **Intelligent Systems in Aviation**  
+  Predictive modeling and intelligent automation for aviation applications.
+
+### 🛠️ Technical Skills
+
+**AI & Machine Learning:** Machine Learning, Deep Learning, Predictive Modeling, Model Evaluation  
+**Data Science:** Data Analysis, Data Preprocessing, Statistical Analysis, Data Visualization  
+**Programming:** Python, JavaScript, SQL 
+**Software Engineering:** APIs, Web Applications, System Development
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ayisha-manzoor-24b183157/) · [ORCID](https://orcid.org/0000-0002-3791-9892)
