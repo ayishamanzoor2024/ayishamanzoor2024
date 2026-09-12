@@ -13,7 +13,7 @@ I'm a Software Engineer and researcher focused on **Artificial Intelligence, Mac
 
 ### 📚 Research & Selected Work
 
-- 🔬 **Lysosomal Storage Disorder Screening**  
+- 🔬 **Expert Rules Vs Machine Learning Lysosomal Storage Disorder Screening**  
   Expert-rule-based screening and evaluation using clinical data.
 
 - 🎓 **Data-Driven Education**  
